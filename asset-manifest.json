@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react/pits-react-demo/static/css/main.94a198cf.css",
+    "main.js": "/react/pits-react-demo/static/js/main.36c5cb42.js",
+    "static/js/796.9fba491c.chunk.js": "/react/pits-react-demo/static/js/796.9fba491c.chunk.js",
+    "static/js/165.e90f2ccc.chunk.js": "/react/pits-react-demo/static/js/165.e90f2ccc.chunk.js",
+    "static/js/453.15902fcc.chunk.js": "/react/pits-react-demo/static/js/453.15902fcc.chunk.js",
+    "index.html": "/react/pits-react-demo/index.html",
+    "main.94a198cf.css.map": "/react/pits-react-demo/static/css/main.94a198cf.css.map",
+    "main.36c5cb42.js.map": "/react/pits-react-demo/static/js/main.36c5cb42.js.map",
+    "796.9fba491c.chunk.js.map": "/react/pits-react-demo/static/js/796.9fba491c.chunk.js.map",
+    "165.e90f2ccc.chunk.js.map": "/react/pits-react-demo/static/js/165.e90f2ccc.chunk.js.map",
+    "453.15902fcc.chunk.js.map": "/react/pits-react-demo/static/js/453.15902fcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a198cf.css",
+    "static/js/main.36c5cb42.js"
+  ]
+}
